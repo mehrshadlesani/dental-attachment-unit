@@ -1,0 +1,33 @@
+# SolidWorks temporary files
+~$*.SLDPRT
+~$*.SLDASM
+~$*.SLDDRW
+*.SLDPRT.bak
+*.SLDASM.bak
+*.SLDDRW.bak
+
+# SolidWorks backup files
+*.~*
+
+# System files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Windows image cache
+ehthumbs.db
+ehthumbs_vista.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# CAD cache files
+*.swp
+*.swo
+*~
+
+# Compressed files (keep originals)
+# *.zip
+# *.rar
